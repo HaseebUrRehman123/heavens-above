@@ -1,0 +1,8 @@
+{
+  "categories": [
+    { "title": "🚀 New Features", "labels": ["feature"] },
+    { "title": "🐛 Fixes", "labels": ["bug"] },
+    { "title": "🧹 Maintenance", "labels": ["chore"] }
+  ],
+  "template": "# Changelog for {{owner}}/{{repo}}\n\n{{CHANGELOG}}\n\n---\nGenerated automatically by GitHub Actions."
+}
